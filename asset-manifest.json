@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/video-games-on-RAWG-react-app/static/css/main.58bd7652.chunk.css",
-    "main.js": "/video-games-on-RAWG-react-app/static/js/main.18310387.chunk.js",
-    "main.js.map": "/video-games-on-RAWG-react-app/static/js/main.18310387.chunk.js.map",
+    "main.css": "/video-games-on-RAWG-react-app/static/css/main.e773fedc.chunk.css",
+    "main.js": "/video-games-on-RAWG-react-app/static/js/main.dcef3a40.chunk.js",
+    "main.js.map": "/video-games-on-RAWG-react-app/static/js/main.dcef3a40.chunk.js.map",
     "runtime~main.js": "/video-games-on-RAWG-react-app/static/js/runtime~main.cd021995.js",
     "runtime~main.js.map": "/video-games-on-RAWG-react-app/static/js/runtime~main.cd021995.js.map",
     "static/css/2.903a27b1.chunk.css": "/video-games-on-RAWG-react-app/static/css/2.903a27b1.chunk.css",
     "static/js/2.66651fbb.chunk.js": "/video-games-on-RAWG-react-app/static/js/2.66651fbb.chunk.js",
     "static/js/2.66651fbb.chunk.js.map": "/video-games-on-RAWG-react-app/static/js/2.66651fbb.chunk.js.map",
     "index.html": "/video-games-on-RAWG-react-app/index.html",
-    "precache-manifest.cf61b12527cf069462e927f9c44b7763.js": "/video-games-on-RAWG-react-app/precache-manifest.cf61b12527cf069462e927f9c44b7763.js",
+    "precache-manifest.2f12dcd607a10ee8adfa04b6ce1be3b7.js": "/video-games-on-RAWG-react-app/precache-manifest.2f12dcd607a10ee8adfa04b6ce1be3b7.js",
     "service-worker.js": "/video-games-on-RAWG-react-app/service-worker.js",
     "static/css/2.903a27b1.chunk.css.map": "/video-games-on-RAWG-react-app/static/css/2.903a27b1.chunk.css.map",
-    "static/css/main.58bd7652.chunk.css.map": "/video-games-on-RAWG-react-app/static/css/main.58bd7652.chunk.css.map",
+    "static/css/main.e773fedc.chunk.css.map": "/video-games-on-RAWG-react-app/static/css/main.e773fedc.chunk.css.map",
     "static/media/index.css": "/video-games-on-RAWG-react-app/static/media/ArcadeClassic.5a94f70d.otf",
-    "static/media/github.svg": "/video-games-on-RAWG-react-app/static/media/github.07883e93.svg",
+    "static/media/github.svg": "/video-games-on-RAWG-react-app/static/media/github.058a5b6f.svg",
     "static/media/linkedin.png": "/video-games-on-RAWG-react-app/static/media/linkedin.fc21cea1.png",
-    "static/media/logo-big-dark.svg": "/video-games-on-RAWG-react-app/static/media/logo-big-dark.e4d15341.svg",
-    "static/media/logo-big.svg": "/video-games-on-RAWG-react-app/static/media/logo-big.31734e48.svg"
+    "static/media/logo-big-dark.svg": "/video-games-on-RAWG-react-app/static/media/logo-big-dark.966b3145.svg",
+    "static/media/logo-big.svg": "/video-games-on-RAWG-react-app/static/media/logo-big.ceea6566.svg"
   }
 }

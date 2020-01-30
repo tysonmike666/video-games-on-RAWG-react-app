@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1960b838d9b9603ec877d69d4e3524a6",
+    "revision": "afa4f85bf309ff0c9620de17692ec716",
     "url": "/video-games-on-RAWG-react-app/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/video-games-on-RAWG-react-app/static/css/2.903a27b1.chunk.css"
   },
   {
-    "revision": "158d27a8f0b5a91715ac",
-    "url": "/video-games-on-RAWG-react-app/static/css/main.58bd7652.chunk.css"
+    "revision": "eaf11bbe48ce6a7ca213",
+    "url": "/video-games-on-RAWG-react-app/static/css/main.e773fedc.chunk.css"
   },
   {
     "revision": "6d750738c494e37ecdf6",
     "url": "/video-games-on-RAWG-react-app/static/js/2.66651fbb.chunk.js"
   },
   {
-    "revision": "158d27a8f0b5a91715ac",
-    "url": "/video-games-on-RAWG-react-app/static/js/main.18310387.chunk.js"
+    "revision": "eaf11bbe48ce6a7ca213",
+    "url": "/video-games-on-RAWG-react-app/static/js/main.dcef3a40.chunk.js"
   },
   {
     "revision": "b8392a2f119cfabd1890",
@@ -28,19 +28,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/video-games-on-RAWG-react-app/static/media/ArcadeClassic.5a94f70d.otf"
   },
   {
-    "revision": "07883e93734b98cae0f7b9c55d287250",
-    "url": "/video-games-on-RAWG-react-app/static/media/github.07883e93.svg"
+    "revision": "058a5b6f0e4bed8f73f20c466c1f705d",
+    "url": "/video-games-on-RAWG-react-app/static/media/github.058a5b6f.svg"
   },
   {
     "revision": "fc21cea151f5aa0f837e6c2dd30306fb",
     "url": "/video-games-on-RAWG-react-app/static/media/linkedin.fc21cea1.png"
   },
   {
-    "revision": "e4d15341d738fd7fb486171ebc27973a",
-    "url": "/video-games-on-RAWG-react-app/static/media/logo-big-dark.e4d15341.svg"
+    "revision": "966b31455b526b74ea241a4b17719473",
+    "url": "/video-games-on-RAWG-react-app/static/media/logo-big-dark.966b3145.svg"
   },
   {
-    "revision": "31734e48bb7ba3884b5edd0c67c4410f",
-    "url": "/video-games-on-RAWG-react-app/static/media/logo-big.31734e48.svg"
+    "revision": "ceea656670cd8d6ba6ca9364bf77be62",
+    "url": "/video-games-on-RAWG-react-app/static/media/logo-big.ceea6566.svg"
   }
 ]);
