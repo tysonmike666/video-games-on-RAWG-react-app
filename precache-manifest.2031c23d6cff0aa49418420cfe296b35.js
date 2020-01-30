@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afa4f85bf309ff0c9620de17692ec716",
+    "revision": "7e090a341912e11615d785a3f044ccd9",
     "url": "/video-games-on-RAWG-react-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/video-games-on-RAWG-react-app/static/css/2.903a27b1.chunk.css"
   },
   {
-    "revision": "eaf11bbe48ce6a7ca213",
+    "revision": "51761b29a95d79045037",
     "url": "/video-games-on-RAWG-react-app/static/css/main.e773fedc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/video-games-on-RAWG-react-app/static/js/2.66651fbb.chunk.js"
   },
   {
-    "revision": "eaf11bbe48ce6a7ca213",
-    "url": "/video-games-on-RAWG-react-app/static/js/main.dcef3a40.chunk.js"
+    "revision": "51761b29a95d79045037",
+    "url": "/video-games-on-RAWG-react-app/static/js/main.d638345f.chunk.js"
   },
   {
     "revision": "b8392a2f119cfabd1890",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/video-games-on-RAWG-react-app/precache-manifest.2f12dcd607a10ee8adfa04b6ce1be3b7.js"
+  "/video-games-on-RAWG-react-app/precache-manifest.2031c23d6cff0aa49418420cfe296b35.js"
 );
 
 self.addEventListener('message', (event) => {
